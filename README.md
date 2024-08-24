@@ -4,28 +4,28 @@ Este proyecto es una API RESTful desarrollada con la metodología MERN (MongoDB,
 
 ## Estructura del Proyecto
 
-├── package.json
-├── package-lock.json
-├── server/
-│ ├── index.js
-│ ├── config/
-│ │ └── db.js
-│ ├── controllers/
-│ │ └── courseController.js
-│ ├── models/
-│ │ └── courseModel.js
-│ ├── routes/
-│ │ └── courseRoutes.js
-│ └── middleware/
-│ └── auth.js
-└── client/
-├── src/
-│ ├── app/
-│ │ ├── components/
-│ │ ├── services/
-│ │ └── views/
-│ └── main.ts
-└── angular.json
+├── package.json<br>
+├── package-lock.json<br>
+├── server/<br>
+│ ├── index.js<br>
+│ ├── config/<br>
+│ │ └── db.js<br>
+│ ├── controllers/<br>
+│ │ └── courseController.js<br>
+│ ├── models/<br>
+│ │ └── courseModel.js<br>
+│ ├── routes/<br>
+│ │ └── courseRoutes.js<br>
+│ └── middleware/<br>
+│ └── auth.js<br>
+└── client/<br>
+├── src/<br>
+│ ├── app/<br>
+│ │ ├── components/<br>
+│ │ ├── services/<br>
+│ │ └── views/<br>
+│ └── main.ts<br>
+└── angular.json<br>
 
 
 ## Instalación
